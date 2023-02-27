@@ -1,1 +1,2 @@
-# Treinamento_Minsait_BI
+# Treinamento_Minsait_BI 
+Refazendo os exemplos da aula 1. 
